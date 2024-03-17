@@ -1,4 +1,4 @@
-module redactableProject
+module github.com/ZihuaZhang/redactable
 
 go 1.22
 
